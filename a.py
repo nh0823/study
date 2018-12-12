@@ -7,7 +7,7 @@ def getHead():
 
 
 def getModify():
-	return "YYYYYYY"
+	return "CCCCCCYYYY"
 
 def getNewFunc():
 	return "TTTTTTT"
