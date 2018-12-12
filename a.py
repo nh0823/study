@@ -3,4 +3,4 @@ def getString():
 
 
 def getHead():
-	return "XXXXXXX"
+	return "XXXXXXXZZZZZZZZ"
