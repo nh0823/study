@@ -4,3 +4,7 @@ def getString():
 
 def getHead():
 	return "XXXXXXXZZZZZZZZ"
+
+
+def getModify():
+	return "YYYYYYY"
