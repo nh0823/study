@@ -8,3 +8,6 @@ def getHead():
 
 def getModify():
 	return "YYYYYYY"
+
+def getNewFunc():
+	return "TTTTTTT"
